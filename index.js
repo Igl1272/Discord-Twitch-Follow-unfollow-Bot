@@ -678,4 +678,4 @@ client.on("guildMemberAdd", async (member) => {
   }
 })
 
-client.login(mySecret)
+client.login(OTU1OTU0MjExMjEwNzk3MDU2.YjpLvA.FoBsPShupFh-bxxyJQFi96GYteo)
